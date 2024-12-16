@@ -1,0 +1,73 @@
+2024-12-14 23:12:147 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (64964d10e1f6daca195006c44e1a3325)] -> link text: Log in]
+2024-12-14 23:12:277 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (64964d10e1f6daca195006c44e1a3325)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-14 23:12:283 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (9dd2c51c78f772dc003fdfefb499afe6)] -> link text: Log in]
+2024-12-15 16:12:540 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (60f5e92057f6e8fff218db9415ead394)] -> link text: Log in]
+2024-12-15 16:12:626 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (60f5e92057f6e8fff218db9415ead394)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 16:12:553 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (5c1917ae9bb8103d599c4743da21c5da)] -> link text: Log in]
+2024-12-15 17:12:348 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (4a27c024ee346b531fff25af7ea1c52b)] -> link text: Log in]
+2024-12-15 17:12:452 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (4a27c024ee346b531fff25af7ea1c52b)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 17:12:295 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (8f67f94d8246d1711dc34cbb0c29633d)] -> link text: Log in]
+2024-12-15 17:12:567 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (c46b575cd0d2300f5042b012d55bd6be)] -> link text: Log in]
+2024-12-15 17:12:649 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (c46b575cd0d2300f5042b012d55bd6be)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 17:12:715 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (9d90a9d82e1089652701163321de5107)] -> link text: Log in]
+2024-12-15 17:12:28 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (cf7a570f19af397c40520a156787d35d)] -> link text: Log in]
+2024-12-15 17:12:147 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (cf7a570f19af397c40520a156787d35d)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 17:12:03 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (cd11b0abc90827e3689a5c584892ac56)] -> link text: Log in]
+2024-12-15 17:12:823 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (c99bc3e7151d0d4cd2570618f97adbf4)] -> link text: Log in]
+2024-12-15 17:12:329 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (c99bc3e7151d0d4cd2570618f97adbf4)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 17:12:473 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (7e833a84ba0fea7758dbf7f500ddf394)] -> link text: Log in]
+2024-12-15 17:12:922 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (2cd1702ad612aeb82619b0d9271f0e17)] -> link text: Log in]
+2024-12-15 17:12:294 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (2cd1702ad612aeb82619b0d9271f0e17)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 17:12:313 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (3d810339e78b34e58cdf6964c16b4499)] -> link text: Log in]
+2024-12-15 17:12:922 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 17:12:613 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (9248268fdff178189e2584004dc6f7bb)] -> link text: Log in]
+2024-12-15 17:12:680 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (9248268fdff178189e2584004dc6f7bb)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 17:12:627 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (792842ec52b286399fb735988db65c67)] -> link text: Log in]
+2024-12-15 20:12:326 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 20:12:502 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 20:12:372 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (aed9ce8e50c4e0720a68e7a0365cee29)] -> link text: Log in]
+2024-12-15 20:12:458 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (aed9ce8e50c4e0720a68e7a0365cee29)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 20:12:126 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (ca29e58feceb1abdcddb8c0c4ebae937)] -> link text: Log in]
+2024-12-15 21:12:330 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 21:12:884 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (1c097682c17adc521c0bdfc6569f74f7)] -> link text: Log in]
+2024-12-15 21:12:980 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (1c097682c17adc521c0bdfc6569f74f7)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 21:12:615 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (5e8d65c224e67546c0f985784005b050)] -> link text: Log in]
+2024-12-15 23:12:285 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 23:12:214 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (73c57d272db1e1679e57f022be4a898e)] -> link text: Log in]
+2024-12-15 23:12:283 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (73c57d272db1e1679e57f022be4a898e)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 23:12:220 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (4c871844283c0c5aee9d66c2fc473b1d)] -> link text: Log in]
+2024-12-15 23:12:626 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 23:12:301 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 23:12:561 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (b2351c45e788481a3240891c97d48a40)] -> link text: Log in]
+2024-12-15 23:12:636 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (b2351c45e788481a3240891c97d48a40)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 23:12:996 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (f0b2129a52ad707c8b8e3b32f756b3ba)] -> link text: Log in]
+2024-12-15 23:12:372 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 23:12:842 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-15 23:12:761 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (4b2160799400eeb9f500a318a6c9d79c)] -> link text: Log in]
+2024-12-15 23:12:820 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (4b2160799400eeb9f500a318a6c9d79c)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-15 23:12:783 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (153b968790c275e157635c79f26d33d7)] -> link text: Log in]
+2024-12-16 00:12:978 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 00:12:652 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (1a2f5a3a4e4075ef28d6e885ed04ab47)] -> link text: Log in]
+2024-12-16 00:12:715 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (1a2f5a3a4e4075ef28d6e885ed04ab47)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 00:12:305 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (5abb6c5bdbd6e8e382d8e97faf244941)] -> link text: Log in]
+2024-12-16 16:12:920 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 16:12:508 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 16:12:371 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (718a1817fd27a799367b9d55ebabc426)] -> link text: Log in]
+2024-12-16 16:12:560 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (718a1817fd27a799367b9d55ebabc426)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 16:12:957 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (76edfe11fd7794db188a9c6f58f81a87)] -> link text: Log in]
+2024-12-16 16:12:987 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 16:12:198 INFO  ComputerPage :23 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 16:12:535 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (9d92299de52674bf800abd08a3d33b3d)] -> link text: Log in]
+2024-12-16 16:12:617 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (9d92299de52674bf800abd08a3d33b3d)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 16:12:685 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (5b7931516c04e127a102d1322ee1c294)] -> link text: Log in]
+2024-12-16 16:12:966 INFO  ComputerPage :22 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 16:12:779 INFO  ComputerPage :22 - click in computer tabProxy element for: DefaultElementLocator 'By.xpath: //h1[normalize-space()='Computers']'
+2024-12-16 16:12:792 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (6b4ac418d4638db65400d300fd273eff)] -> link text: Log in]
+2024-12-16 16:12:869 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (6b4ac418d4638db65400d300fd273eff)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 16:12:389 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (9d5c4068ba83bcf42d9f9a550617cc59)] -> link text: Log in]
+2024-12-16 17:12:571 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (8705178054590b9e7c52247c8f18835a)] -> link text: Log in]
+2024-12-16 17:12:637 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (8705178054590b9e7c52247c8f18835a)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 17:12:887 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (db053b4d99aa5f211cc062adc12e5751)] -> link text: Log in]
+2024-12-16 18:12:803 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (2b907088efd6ee98f541d82d83bb0070)] -> link text: Log in]
+2024-12-16 18:12:867 INFO  LoginPage :38 - Getting text from : [[ChromeDriver: chrome on windows (2b907088efd6ee98f541d82d83bb0070)] -> xpath: //h1[normalize-space()='Welcome, Please Sign In!']]
+2024-12-16 18:12:891 INFO  HomePage :31 - Clicking on login link : [[ChromeDriver: chrome on windows (04264d2c35b9f52db1dd448870ce80da)] -> link text: Log in]
